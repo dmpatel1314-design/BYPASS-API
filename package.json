@@ -1,0 +1,13 @@
+{
+  "name": "link-bypass-api",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "next": "14.2.3"
+  },
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build"
+  }
+}
