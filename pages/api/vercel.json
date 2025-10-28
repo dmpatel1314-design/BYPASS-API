@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/bypass.js": {
+      "runtime": "nodejs20.x"
+    }
+  },
+  "routes": [
+    { "src": "/api/bypass", "dest": "api/bypass.js" }
+  ]
+}
